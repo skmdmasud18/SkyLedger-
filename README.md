@@ -1,4 +1,4 @@
-# A nimbus is a rain cloud. It sounds technical and strong.
+# SkyLedger
 
 ## Project Title
 SkyLedger
