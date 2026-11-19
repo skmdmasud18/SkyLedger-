@@ -1,7 +1,7 @@
-# Decentralized Crowdsourced Weather Prediction
+# A nimbus is a rain cloud. It sounds technical and strong.
 
 ## Project Title
-Decentralized Crowdsourced Weather Prediction
+SkyLedger
 
 ## Project Description
 Create a platform to buy, sell, and auction digital art as NFTs.
